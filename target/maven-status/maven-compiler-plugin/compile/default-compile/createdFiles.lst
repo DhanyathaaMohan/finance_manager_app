@@ -1,0 +1,9 @@
+com\finance_manager\gui\TransactionGUI.class
+com\finance_manager\model\Transaction.class
+com\finance_manager\util\DatabaseConnection.class
+com\finance_manager\dao\TransactionDAO.class
+com\finance_manager\model\Category.class
+com\finance_manager\Main.class
+com\finance_manager\gui\MainTransactionGUI.class
+com\finance_manager\dao\CategoryDAO.class
+com\finance_manager\gui\CategoryGUI.class

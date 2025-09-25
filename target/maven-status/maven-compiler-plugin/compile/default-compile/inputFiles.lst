@@ -1,4 +1,7 @@
-C:\Users\Work\Documents\Finance_Manager_App\src\main\java\com\Finance_Manager\model\Transaction.java
-C:\Users\Work\Documents\Finance_Manager_App\src\main\java\com\Finance_Manager\gui\TransactionGUI.java
-C:\Users\Work\Documents\Finance_Manager_App\src\main\java\com\Finance_Manager\dao\TransactionDAO.java
-C:\Users\Work\Documents\Finance_Manager_App\src\main\java\com\Finance_Manager\util\DatabaseConnection.java
+C:\Users\Work\Documents\finance_manager_app\src\main\java\com\finance_manager\model\Transaction.java
+C:\Users\Work\Documents\finance_manager_app\src\main\java\com\finance_manager\dao\CategoryDAO.java
+C:\Users\Work\Documents\finance_manager_app\src\main\java\com\finance_manager\gui\MainTransactionGUI.java
+C:\Users\Work\Documents\finance_manager_app\src\main\java\com\finance_manager\model\Category.java
+C:\Users\Work\Documents\finance_manager_app\src\main\java\com\finance_manager\dao\TransactionDAO.java
+C:\Users\Work\Documents\finance_manager_app\src\main\java\com\finance_manager\util\DatabaseConnection.java
+C:\Users\Work\Documents\finance_manager_app\src\main\java\com\finance_manager\Main.java
