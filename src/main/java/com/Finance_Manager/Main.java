@@ -16,11 +16,11 @@ public class Main {
         try{
             DatabaseConnection db_Connection = new DatabaseConnection();
             Connection sn=db_Connection.getConnection();
-            System.out.println("The database connection successful");
+            System.out.println("The database connection successful!!!");
         }
         catch(SQLException e)
         {
-            System.out.println("The database connection failed");
+            System.out.println("The database connection failed!!");
             System.exit(1);
         }
         try{
