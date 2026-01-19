@@ -38,4 +38,32 @@ This project is built using the **MERN stack** and focuses on solving real-world
 ---
 
 ## 📂 Project Structure
+Nearby_essentials_finder/
+│
+├── backend/ # Backend server (Node.js + Express)
+│
+├── finder-app/ # Frontend application (React)
+│
+├── package-lock.json
+├── .gitignore
+└── README.md
 
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/DhanyathaaMohan/Nearby_essentials_finder.git
+cd Nearby_essentials_finder
+
+2️⃣ Backend Setup
+cd backend
+npm install
+npm start
+
+3️⃣ Frontend Setup
+cd finder-app
+npm install
+npm start
