@@ -84,7 +84,8 @@ Demo / Screenshots
 
 ## 🎥 Demo
 
-![Finance Manager App Demo](assets/finance_manager_demo.gif)
+![Finance Manager App Demo]([assets/finance_manager_demo.gif](https://github.com/DhanyathaaMohan/finance_manager_app/blob/main/ScreenRecording2026-01-19193309-ezgif.com-speed.gif))
+
 
 
 
