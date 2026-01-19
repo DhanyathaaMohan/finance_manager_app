@@ -82,4 +82,9 @@ mvn exec:java
 
 Demo / Screenshots
 
+## 🎥 Demo
+
+![Finance Manager App Demo](assets/finance_manager_demo.gif)
+
+
 
